@@ -1,6 +1,6 @@
 # ubs_stinger_classification
 
-Stinger Pictures Classification
+# Stinger Pictures Classification -- UBS team
 
 Project Goal: Using Matchin Learning to automate the classification of two types of stinger
 
